@@ -1,1 +1,1 @@
-# verimetry
+# [SeletiX.com](https://www.seletix.com/)
