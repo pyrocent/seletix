@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seletix.com/sitemap.xml
+Sitemap: https://www.seletix.com/sitemap.xml
